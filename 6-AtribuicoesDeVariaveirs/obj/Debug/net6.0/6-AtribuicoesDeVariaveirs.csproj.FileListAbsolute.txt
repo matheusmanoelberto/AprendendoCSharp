@@ -1,0 +1,15 @@
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\bin\Debug\net6.0\6-AtribuicoesDeVariaveirs.exe
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\bin\Debug\net6.0\6-AtribuicoesDeVariaveirs.deps.json
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\bin\Debug\net6.0\6-AtribuicoesDeVariaveirs.runtimeconfig.json
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\bin\Debug\net6.0\6-AtribuicoesDeVariaveirs.dll
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\bin\Debug\net6.0\6-AtribuicoesDeVariaveirs.pdb
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.csproj.AssemblyReference.cache
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.AssemblyInfoInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.AssemblyInfo.cs
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.csproj.CoreCompileInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.dll
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\refint\6-AtribuicoesDeVariaveirs.dll
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.pdb
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\6-AtribuicoesDeVariaveirs.genruntimeconfig.cache
+C:\Apreendendocsharp\AprendendoCSharp\6-AtribuicoesDeVariaveirs\obj\Debug\net6.0\ref\6-AtribuicoesDeVariaveirs.dll

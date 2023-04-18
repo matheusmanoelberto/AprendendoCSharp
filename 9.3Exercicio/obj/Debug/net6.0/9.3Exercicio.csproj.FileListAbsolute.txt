@@ -1,0 +1,15 @@
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\bin\Debug\net6.0\9.3Exercicio.exe
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\bin\Debug\net6.0\9.3Exercicio.deps.json
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\bin\Debug\net6.0\9.3Exercicio.runtimeconfig.json
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\bin\Debug\net6.0\9.3Exercicio.dll
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\bin\Debug\net6.0\9.3Exercicio.pdb
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.csproj.AssemblyReference.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.AssemblyInfoInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.AssemblyInfo.cs
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.csproj.CoreCompileInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.dll
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\refint\9.3Exercicio.dll
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.pdb
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\9.3Exercicio.genruntimeconfig.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.3Exercicio\obj\Debug\net6.0\ref\9.3Exercicio.dll

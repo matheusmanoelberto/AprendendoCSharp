@@ -1,0 +1,15 @@
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\bin\Debug\net6.0\5-caracteresETesxtos.exe
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\bin\Debug\net6.0\5-caracteresETesxtos.deps.json
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\bin\Debug\net6.0\5-caracteresETesxtos.runtimeconfig.json
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\bin\Debug\net6.0\5-caracteresETesxtos.dll
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\bin\Debug\net6.0\5-caracteresETesxtos.pdb
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.csproj.AssemblyReference.cache
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.AssemblyInfoInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.AssemblyInfo.cs
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.csproj.CoreCompileInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.dll
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\refint\5-caracteresETesxtos.dll
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.pdb
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\5-caracteresETesxtos.genruntimeconfig.cache
+C:\Apreendendocsharp\AprendendoCSharp\5-caracteresETesxtos\obj\Debug\net6.0\ref\5-caracteresETesxtos.dll

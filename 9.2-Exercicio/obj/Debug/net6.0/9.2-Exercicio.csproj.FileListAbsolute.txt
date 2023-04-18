@@ -1,0 +1,15 @@
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\bin\Debug\net6.0\9.2-Exercicio.exe
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\bin\Debug\net6.0\9.2-Exercicio.deps.json
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\bin\Debug\net6.0\9.2-Exercicio.runtimeconfig.json
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\bin\Debug\net6.0\9.2-Exercicio.dll
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\bin\Debug\net6.0\9.2-Exercicio.pdb
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.csproj.AssemblyReference.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.AssemblyInfoInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.AssemblyInfo.cs
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.csproj.CoreCompileInputs.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.dll
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\refint\9.2-Exercicio.dll
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.pdb
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\9.2-Exercicio.genruntimeconfig.cache
+C:\Apreendendocsharp\AprendendoCSharp\9.2-Exercicio\obj\Debug\net6.0\ref\9.2-Exercicio.dll
